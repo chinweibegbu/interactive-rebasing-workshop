@@ -10,7 +10,7 @@
    
 3. Commit a couple of changes to `main` and push to its remote counterpart, `origin/main`
    ```shell
-   > git add . <br>
+   > git add .
    > git commit -m "<commit-message>"
    > git push
    ```
@@ -24,8 +24,8 @@
 
 6. Commit and push the changes made in this new branch
    ```shell
-   > git add . <br>
-   > git commit -m "<commit-message>" <br>
+   > git add .
+   > git commit -m "<commit-message>"
    > git push --set-upstream origin test-branch
    > git push
    ```
