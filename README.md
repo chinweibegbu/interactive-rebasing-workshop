@@ -1,5 +1,5 @@
 # Interactive Rebasing Workshop
-Date: Friday, April 6, 2024 <br>
+Date: Friday, April 26, 2024 <br>
 Time: 2pm to 3pm EST <br>
 Facilitator: Ben Clark
 
