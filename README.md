@@ -1,1 +1,1 @@
-# interactive-rebasing-workshop
+# Interactive Rebasing Workshop
